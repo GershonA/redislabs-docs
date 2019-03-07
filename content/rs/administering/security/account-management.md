@@ -14,7 +14,7 @@ The roles and permissions available in RS are:
 <table>
   <tr>
     <th></th>
-    <th colspan="4">Database</th>
+    <th colspan="5">Database</th>
     <th colspan="3">Nodes</th>
     <th colspan="5">Cluster</th>
   </tr>
@@ -22,6 +22,7 @@ The roles and permissions available in RS are:
     <td align="center"></td>
     <td class="cat-boundary" align="center">View metrics</td>
     <td align="center">View<br>config</td>
+    <td align="center">View<br>redis<br>password</td>
     <td align="center">Edit config</td>
     <td align="center">Clear<br>slow log</td>
     <td class="cat-boundary" align="center">View metrics</td>
@@ -39,6 +40,7 @@ The roles and permissions available in RS are:
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center"></td>
     <td class="cat-boundary" align="center" align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -51,6 +53,7 @@ The roles and permissions available in RS are:
   <tr>
     <td class="row-head">DB Member</td>
     <td class="cat-boundary" align="center" align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
+    <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
@@ -69,6 +72,7 @@ The roles and permissions available in RS are:
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center"></td>
     <td class="cat-boundary" align="center" align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"></td>
@@ -84,6 +88,7 @@ The roles and permissions available in RS are:
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
+    <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td class="cat-boundary" align="center" align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"></td>
@@ -96,6 +101,7 @@ The roles and permissions available in RS are:
   <tr>
     <td class="row-head">Admin</td>
     <td class="cat-boundary" align="center" align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
+    <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
     <td align="center"><img src="../../../../images/icon_logo/icon_check_black.png#no-click" alt="V"></td>
