@@ -199,3 +199,17 @@ Warnings suggest that users think carefully before doing steps that can cause ir
 **Output**:
 
 {{% warning %}}Backup your data before erasing the hard disk!{{% /warning %}}
+
+## Embedding a partial
+
+A partial markdown or HTML file can be included in other files using the **embed-md** or **embed-html** shortcodes.
+
+Syntax for embedding a markdown partial:
+```md
+{{< embed-md "/partials/rbac-table.md" >}}
+```
+
+Syntax for embedding an HTML partial:
+```md
+{{< embed-html "/partials/sample-table.html" >}}
+```
